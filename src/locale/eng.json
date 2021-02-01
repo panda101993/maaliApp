@@ -1,0 +1,6 @@
+{
+    "SIGN_IN": {
+        "phoneNo":"Please enter phone number",
+        "phoneNo_Error":"Please enter phone number",
+    }
+}
